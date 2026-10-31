@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python sales.py
+python one.py
 ```
 
 ## Menu
