@@ -45,7 +45,7 @@ Sales-Data-Analyzer/
 ├── README.md
 ├── requirements.txt
 ├── sales.csv
-└── sales.py
+└── one.py
 ```
 
 ## Installation
