@@ -45,7 +45,7 @@ Sales-Data-Analyzer/
 ├── README.md
 ├── requirements.txt
 ├── sales.csv
-└── one.py
+└── one1.py
 ```
 
 ## Installation
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python one.py
+python one1.py
 ```
 
 ## Menu
