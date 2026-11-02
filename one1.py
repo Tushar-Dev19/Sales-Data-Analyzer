@@ -2,6 +2,7 @@
 # PS Number: 5
 # Project Title: Sales Data Analyzer
 # Student Name: Tushar Yadav
+# ERP: 02121
 # Email: tushar.yadav@rungta.org
 # Section: BCA 1A
 # ============================================================
@@ -155,6 +156,4 @@ if __name__ == "__main__":
 
 # ============================================================
 # End of Project: Sales Data Analyzer
-# Student: Tushar Yadav
-# PS Number: 5
-# ============================================================
+# ==========================================================
